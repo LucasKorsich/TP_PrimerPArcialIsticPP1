@@ -1,0 +1,27 @@
+{"Nombre":null,"Apellido":null}
+{"Usuario":"pablo","Contrase\u00f1a":"12345"}
+{"Usuario":"pablo","Contrase\u00f1a":"12345"}
+{"Usuario":"pablo","Contrase\u00f1a":"12345"}
+{"Usuario":"pablo","Contrase\u00f1a":"12345"}
+{"Usuario":"pablo","Contrase\u00f1a":"12345"}
+{"Patente":"VHY 234","Horario":"19:45"}
+{"Usuario":null,"Contrase\u00f1a":null}
+{"Usuario":null,"Contrase\u00f1a":null}
+{"Nombre":"Leandro","Apellido":"Zahora"}
+{"Usuario":null,"Contrase\u00f1a":null}
+{"Usuario":"Leandro","Contrase\u00f1a":"Labarque"}
+{"Usuario":"Leandro","Contrase\u00f1a":"leaLp2304.."}
+{"Usuario":"Leandro","Contrase\u00f1a":"leabrwofn"}
+{"Usuario":"LUCAS","Contrase\u00f1a":""}
+{"Usuario":"KSKAO","Contrase\u00f1a":" DAD"}
+{"Usuario":"ESTACIONAMIENTO","Contrase\u00f1a":"LABARQUE"}
+{"Usuario":"ESTACIONAMIENTO","Contrase\u00f1a":"LABARQUE"}
+{"Usuario":"","Contrase\u00f1a":""}
+{"Usuario":"","Contrase\u00f1a":""}
+{"Usuario":"pablo","Contrase\u00f1a":"12345"}
+{"Usuario":"pablo","Contrase\u00f1a":""}
+{"Usuario":"","Contrase\u00f1a":""}
+{"Usuario":"LUCAS","Contrase\u00f1a":""}
+{"Usuario":"PATENTE","Contrase\u00f1a":""}
+{"Usuario":"LUCAS","Contrase\u00f1a":"GJGHKJKLJ"}
+{"Usuario":null,"Contrase\u00f1a":null}
